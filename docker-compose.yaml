@@ -1,4 +1,3 @@
-version: "3"
 services:
   studio:
     image: supa-manager/studio:v1.24.04
